@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyberen
-- 👀 I’m interested in computer science
+- 👀 I’m studying computer engineering
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
